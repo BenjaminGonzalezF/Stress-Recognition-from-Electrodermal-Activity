@@ -6,3 +6,17 @@
 *.txt
 
 *.xlsx
+
+.tmp.driveupload/
+
+*.pkl
+
+*.zip
+
+WESAD/wesad_readme.pdf
+
+VerBio_v2/README.pdf
+
+VerBio_v2/README.md
+
+*.pdf
